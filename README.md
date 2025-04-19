@@ -1,4 +1,4 @@
-## Streamlit MCP Host
+# Streamlit MCP Host
 
 # What is MCP?
 
@@ -22,16 +22,16 @@
 
 # Streamlit Host is running
 
-<img src="https://github.com/user-attachments/assets/8c45e716-1d95-473b-8923-dbbbf0f924b2" alt="octofit-tracker-app" width="30%" height="30%"/>
+<img src="images/streamlit-host-is-running.jpg" alt="image" width="1085"/>
 
 # Streamlit Host Web Page
 
-<img src="https://github.com/user-attachments/assets/8c45e716-1d95-473b-8923-dbbbf0f924b2" alt="octofit-tracker-app" width="30%" height="30%"/>
+<img src="images/streamlit-host-webpage.jpg" alt="image" width="1085"/>
 
 # Streamlit App Deployment
 
-<img src="https://github.com/user-attachments/assets/8c45e716-1d95-473b-8923-dbbbf0f924b2" alt="octofit-tracker-app" width="30%" height="30%"/>
+<img src="images/streamlit-app-deployment.jpg" alt="image" width="1085"/>
 
 # Streamlit App is running on community cloud
 
-<img src="https://github.com/user-attachments/assets/8c45e716-1d95-473b-8923-dbbbf0f924b2" alt="octofit-tracker-app" width="30%" height="30%"/>
+<img src="images/streamlit-app-is-running.jpg" alt="image" width="1085"/>
