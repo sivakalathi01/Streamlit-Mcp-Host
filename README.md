@@ -1,10 +1,12 @@
-# Streamlit MCP Host
+#                           Streamlit MCP Host
 
 # What is MCP?
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
 # Ollama Website
+
+[Ollama](https://ollama.com)
 
 <img src="images/ollama-website.jpg" alt="image" width="1085"/>
 
