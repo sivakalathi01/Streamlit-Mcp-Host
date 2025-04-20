@@ -4,6 +4,18 @@
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
+## General Architecture
+
+<img src="images/MCP-General-Architecture.jpg" alt="image" width="1085"/>
+
+## Core Architecture
+
+<img src="images/MCP-Core-Architecture.jpg" alt="image" width="1085"/>
+
+## Connection Lifecycle
+
+<img src="images/MCP-Connection-LifeCycle.jpg" alt="image" width="1085"/>
+
 ## Ollama Website
 
 [Ollama](https://ollama.com)
